@@ -6,6 +6,7 @@
 
 include simplehelloworld
 
+## Initial class
 class simplehelloworld {
   notice ('One simple Hello World')
 }

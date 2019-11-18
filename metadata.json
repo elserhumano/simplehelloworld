@@ -1,10 +1,12 @@
 {
   "name": "elserhumano-simplehelloworld",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "elserhumano",
-  "summary": "",
+  "summary": "Test 01",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "http://hola.com",
+  "project_page": "http://learn.com",
+  "issues_url": "http://issuetraker.com",
   "dependencies": [
 
   ],

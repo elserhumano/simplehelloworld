@@ -7,9 +7,6 @@ This is a new module for test the upload to Puppet Forge.
 
 1. [Description](#description)
 2. [Setup - The basics of getting started with simplehelloworld](#setup)
-    * [What simplehelloworld affects](#what-simplehelloworld-affects)
-    * [Setup requirements](#setup-requirements)
-    * [Beginning with simplehelloworld](#beginning-with-simplehelloworld)
 3. [Usage - Configuration options and additional functionality](#usage)
 4. [Limitations - OS compatibility, etc.](#limitations)
 5. [Development - Guide for contributing to the module](#development)
@@ -43,3 +40,7 @@ Some notes:
 0.1.1: Initial
 
 0.1.5: The second with modifications in the text files
+
+0.1.6: Correct documentation
+
+0.1.7: Setting correctly the url's for project and source code

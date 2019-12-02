@@ -4,9 +4,9 @@
   "author": "elserhumano",
   "summary": "This is the test upload module for puppet modules",
   "license": "Apache-2.0",
-  "source": "http://hola.com",
-  "project_page": "http://uploadingtoforge.com",
-  "issues_url": "http://issuetraker.com",
+  "source": "https://github.com/elserhumano/simplehelloworld",
+  "project_page": "https://github.com/elserhumano/simplehelloworld",
+  "issues_url": "https://github.com/elserhumano/simplehelloworld",
   "dependencies": [
 
   ],

@@ -4,9 +4,11 @@
 #
 # @example
 
-include simplehelloworld
+#include simplehelloworld
 
 ## Initial class
 class simplehelloworld {
   notice ('One simple Hello World')
 }
+
+#include simplehelloworld

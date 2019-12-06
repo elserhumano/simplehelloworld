@@ -1,0 +1,7 @@
+# .sync.yml
+---
+Gemfile:
+  required:
+    ':development':
+      - gem: 'pdk'
+

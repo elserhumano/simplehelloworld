@@ -44,3 +44,11 @@ Some notes:
 0.1.6: Correct documentation
 
 0.1.7: Setting correctly the url's for project and source code
+
+0.1.8: Test sample
+
+0.1.9: Another test sample
+
+0.1.10: Testing sample
+
+0.1.11: Testing sample 02

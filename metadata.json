@@ -1,7 +1,7 @@
 {
-  "name": "elserhumano-simplehelloworld",
-  "version": "0.1.7",
-  "author": "elserhumano",
+  "name": "bryxxit-simplehelloworld2",
+  "version": "0.1.16",
+  "author": "BRYXX NV",
   "summary": "This is the test upload module for puppet modules",
   "license": "Apache-2.0",
   "source": "https://github.com/elserhumano/simplehelloworld",
@@ -24,7 +24,7 @@
       "version_requirement": ">= 4.10.0 < 7.0.0"
     }
   ],
-  "pdk-version": "1.14.1",
+  "pdk-version": "1.15.0",
   "template-url": "https://github.com/puppetlabs/pdk-templates#1.11.1",
-  "template-ref": "1.11.1-0-g2ff8c24"
+  "template-ref": "tags/1.11.1-0-g2ff8c24"
 }

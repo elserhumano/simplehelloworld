@@ -1,6 +1,7 @@
 # Simple Hello World
 
 ![Puppet Forge Version](https://img.shields.io/puppetforge/v/elserhumano/simplehelloworld.svg)
+![Puppet Forge Version](https://img.shields.io/puppetforge/pdk-version/elserhumano/simplehelloworld.svg)
 ![Puppet Forge Score](https://img.shields.io/puppetforge/f/elserhumano/simplehelloworld.svg)
 ![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/elserhumano/simplehelloworld.svg)
 

@@ -1,6 +1,6 @@
 {
-  "name": "bryxxit-simplehelloworld2",
-  "version": "0.1.16",
+  "name": "bryxxit-simplehelloworld",
+  "version": "0.1.31",
   "author": "BRYXX NV",
   "summary": "This is the test upload module for puppet modules",
   "license": "Apache-2.0",
@@ -24,7 +24,7 @@
       "version_requirement": ">= 4.10.0 < 7.0.0"
     }
   ],
-  "pdk-version": "1.15.0",
-  "template-url": "https://github.com/puppetlabs/pdk-templates#1.11.1",
-  "template-ref": "tags/1.11.1-0-g2ff8c24"
+  "pdk-version": "1.18.0",
+  "template-url": "https://github.com/puppetlabs/pdk-templates#1.18.0",
+  "template-ref": "tags/1.18.0-0-g095317c"
 }

@@ -1,10 +1,10 @@
 # Simple Hello World
 
-This is a new module for test the upload to Puppet Forge.
-
 ![Puppet Forge Version](https://img.shields.io/puppetforge/v/elserhumano/simplehelloworld.svg)
 ![Puppet Forge Score](https://img.shields.io/puppetforge/f/elserhumano/simplehelloworld.svg)
 ![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/elserhumano/simplehelloworld.svg)
+
+This is a new module for test the upload to Puppet Forge.
 
 #### Table of Contents
 

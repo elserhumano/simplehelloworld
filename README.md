@@ -26,7 +26,7 @@ Using as normal module
 
 ## Usage
 
-Examples of use:
+Examples of use: 
 
 
 ## Limitations
